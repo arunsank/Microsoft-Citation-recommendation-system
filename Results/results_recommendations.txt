@@ -1,0 +1,71 @@
+----------Image Recommendation------------------------
+reinforcement learning a survey04686407
+collaborative tagging as a knowledge organisation and resource discovery tool04686407
+a similarity learning approach to content based image retrieval application to digital mammography04686407
+content based retrieval of dynamic pet functional images04686407
+a fast image retrieval algorithm with automatically extracted discriminant features04686407
+small sample learning during multimedia retrieval using biasmap04686407
+a texture thesaurus for browsing large aerial photographs04686407
+performance evaluation in content based image retrieval overview and proposals04686407
+how to add content based image retrieval capability in a pacs04686407
+machine learning for intelligent systems04686407
+
+------ML Survey-------------
+uci repository of machine learning databases005A5BCE
+modern information retrieval005A5BCE
+a bayesian method for the induction of probabilistic networks from data005A5BCE
+c4 5 programs for machine learning005A5BCE
+term weighting approaches in automatic text retrieval005A5BCE
+introduction to information retrieval005A5BCE
+cmar accurate and efficient classification based on multiple class association rules005A5BCE
+very simple classification rules perform well on most commonly used datasets005A5BCE
+weka a machine learning workbench005A5BCE
+fast training of support vector machines using sequential minimal optimization005A5BCE
+
+--------Language Translation------------
+english to korean statistical transliteration for information retrieval06B45147
+automatic identification and back transliteration of foreign words for information retrieval06B45147
+automatic transliteration and back transliteration by decision tree learning06B45147
+japanese english cross language information retrieval exploration of query translation and transliteration06B45147
+an english to korean transliteration model of extended markov window06B45147
+an ensemble of transliteration models for information retrieval06B45147
+mining the web to create a language model for mapping between english names and phrases and japanese06B45147
+backward transliteration for thai document retrieval06B45147
+uci repository of machine learning databases06B45147
+generating phonetic cognates to handle named entities in english chinese cross language spoken document retrieval06B45147
+
+-------db performance------
+pqr predicting query execution times for autonomous workload management00C42E2C
+predicting multiple metrics for queries better decisions enabled by machine learning00C42E2C
+automating layout of relational databases00C42E2C
+autoadmin what if index analysis utility00C42E2C
+estimating progress of execution for sql queries00C42E2C
+database tuning advisor for microsoft sql server 200500C42E2C
+an efficient cost driven index selection tool for microsoft sql server00C42E2C
+integrating vertical and horizontal partitioning into automated physical database design00C42E2C
+stholes a multidimensional workload aware histogram00C42E2C
+when can we trust progress estimators for sql queries00C42E2C
+
+-----music---------------
+automatic identification of music performers with learning ensembles06B677E2
+relational ibl in music with a new structural similarity measure06B677E2
+in search of the horowitz factor06B677E2
+discovering simple rules in complex data a meta learning algorithm and some surprising musical discoveries06B677E2
+roc graphs notes and practical considerations for researchers06B677E2
+modeling expressive music performance in jazz06B677E2
+data mining an overview from a database perspective06B677E2
+automatic recognition of famous artists by machine06B677E2
+the retrieval of document images a brief survey06B677E2
+the strength of weak learnability06B677E2
+
+-----protein--
+automated discovery of structural signatures of protein fold and function072310E2
+protein secondary structure prediction using logic based machine learning072310E2
+drug design by machine learning the use of inductive logic programming to model the structure activity relationships of trimethoprim analogues binding to dihydrofolate reductase072310E2
+structure activity relationships derived by machine learning the use of atoms and their bond connectivities to predict mutagenicity by inductive logic programming072310E2
+parallel and sequential algorithms for data mining using inductive logic072310E2
+the effect of relational background knowledge on learning of protein three dimensional fold signatures072310E2
+foundations of inductive logic programming072310E2
+inductive logic programming072310E2
+theory completion using inverse entailment072310E2
+probabilistic inductive logic programming072310E2
